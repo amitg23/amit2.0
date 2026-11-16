@@ -3,8 +3,6 @@
 
 Amit 2.0 is a personal AI-powered digital twin built with Python, Gradio, and the OpenAI API. It acts as a conversational assistant for a person’s professional profile, using a LinkedIn PDF and a short profile summary to answer questions about career background, experience, skills, and available opportunities.
 
-Try it at https://amitg23-amit2-0.hf.space/
-
 ## What this project does
 
 - Hosts a chat interface for visitors to ask questions about the person behind the website
